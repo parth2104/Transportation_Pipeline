@@ -1,5 +1,5 @@
 [project]
-name = "Transportation_Pipeline"
+name = "Transportaion_Bundle"
 version = "0.0.1"
 authors = [{ name = "barotparth512@gmail.com" }]
 requires-python = ">=3.10,<3.13"
@@ -21,7 +21,7 @@ dev = [
 ]
 
 [project.scripts]
-main = "Transportation_Pipeline.main:main"
+main = "Transportaion_Bundle.main:main"
 
 [build-system]
 requires = ["hatchling"]
